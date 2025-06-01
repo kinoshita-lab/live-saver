@@ -1,5 +1,5 @@
 # What?
-Live Saver is a passive diode(LED) clipper to limit input signal to approx. +4dBu(+- 1.73V).
+Live Saver is a passive diode(LED) clipper to limit input signal to approx. +4dBu(=+- 1.73V), actual +- 1.75V with Vf specification of the diodes.
 
 Both inputs and outputs are 3.5mm TRS, can use for stereo signal.
 
